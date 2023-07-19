@@ -1,1 +1,1 @@
-# shoppe-app
+# react_native_template_js
